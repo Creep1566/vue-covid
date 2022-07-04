@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+img{
+    border: 0;
+}
+
+@media (min-width :750px){
+    html{
+        font-size: 100px;
+    }
+}
+html{
+    font-size: 13.3333333vw;
+}
+body{
+    font-size: 14px;
+    font-family: '微软雅黑', 'Arial Narrow', Arial, sans-serif;
+    max-width: 750px;
+    margin: 0 auto;
+    
+}
